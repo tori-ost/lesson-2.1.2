@@ -8,4 +8,4 @@ console.log(`Средний балл по трем модулям равен ${a
 let firstName = "Коля";
 let lastName = "Сидоров";
 
-console.log(`${firstName} ${lastName}: средний балл по трем модулям равен ${avgScore}`);
+console.log(`${firstName.slice(0,1)}. ${lastName}: средний балл по трем модулям равен ${avgScore}`);
